@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um layout do perfil de uma rede social de fotos de viagem, o "Travelgram". Nele está contido tanto informações pessoais do viajante, quanto registros sobre as viagens feitas. Um dia chegarei ao nível da Isabela! 😅
+Um layout do perfil de uma rede social de fotos de viagens, o "Travelgram". Nele está contido tanto informações pessoais do viajante, quanto registros sobre as viagens feitas. Um dia chegarei ao nível da Isabela! 😅
 
 ## 🔖 Layout
 
